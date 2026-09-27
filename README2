@@ -1,0 +1,11 @@
+//THE DEPENDENCIES USED
+
+import streamlit as st
+import sqlite3
+from datetime import datetime
+from huggingface_hub import InferenceClient
+
+//THE REQUIRED INFERENCE CODE
+USED HUGGING FACE ACESS TOKEN
+
+-  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
