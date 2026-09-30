@@ -6,6 +6,6 @@ from datetime import datetime
 from huggingface_hub import InferenceClient
 
 //THE REQUIRED INFERENCE CODE
-USED HUGGING FACE ACESS TOKEN
+USED HUGGING FACE ACCESS TOKEN
 
 -  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
