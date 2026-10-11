@@ -9,3 +9,5 @@ from huggingface_hub import InferenceClient
 USED HUGGING FACE ACCESS TOKEN
 
 -  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
+//TO RUN THE PROGRAM (MY DEVICE)
+python -m streamlit run demo.py
